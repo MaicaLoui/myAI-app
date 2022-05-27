@@ -1,0 +1,76 @@
+will it rain tomorrow
+how does the weather look for Thursday
+is is going to snow this week
+show me the forecast
+what's the five day forecast
+will it rain this week
+how does this week look in <START:city> Los Angeles <END> ?
+how does it look for Monday
+will it rain on Friday
+is it going to be hot Wednesday
+how does the rest of the week look
+is tomorrow raining in <START:city> Chicago <END>
+will it rain tomorrow in <START:city> Munich <END>
+how does the weather look for this Thursday in <START:city> Boston <END> ?
+is is going to snow this week in  <START:city> Chicago <END>
+show me the forecast for <START:city> Denver <END>
+show me the weather for <START:city> Salt Lake City <END> this Tuesday
+what's the five day forecast for <START:city> Detroit <END>
+how does it look for this Monday in <START:city> New York <END> ?
+will it rain in <START:city> Denver <END> on Friday
+is it going to be hot in <START:city> Boston <END> this Wednesday
+how <START:city> New York <END> look the rest of the week look
+what's the weather look like
+is it raining
+what's the temperature
+show me current conditions
+how hot is it
+how cold is it
+is it snowing
+is it raining in <START:city> Miami <END>
+is it sunny
+is it cloudy
+is it hot in <START:city> Denver <END>
+is it raining in <START:city> Detroit <END>
+how is <START:city> Denver <END> today
+is <START:city> Chicago <END> cold
+is <START:city> Miami <END> hot
+show me the current conditions
+what's the temperature in <START:city> new york <END>
+show me current conditions for <START:city> san francisco <END>
+what's the weather look like in <START:city> Chicago <END> ?
+is it raining in <START:city> Seattle <END>
+what's the temperature in <START:city> New York <END>
+show me current conditions for <START:city> Boston <END> ?
+how hot is it in <START:city> Miami <END>
+how cold is it <START:city> Anchorage <END> ?
+is it snowing in <START:city> Denver <END>
+show me the current conditions for <START:city> Detroit <END>
+show me current conditions for <START:city> boston <END>
+how hot is it in <START:city> miami <END>
+how cold is it <START:city> anchorage <END>
+is it snowing in <START:city> denver <END> ?
+show me the current conditions for <START:city> detroit <END>
+how does tonight look
+is it going to rain this afternoon
+is it going to snow in <START:city> Detroit <END> ?
+does it look like rain
+does it look lie snow
+is it windy
+it is sunny
+will it rain tonight?
+how cold will it be this afternoon
+will it be cloudy
+is it going to be hot tonight
+will it rain this morning
+will it rain
+will is snow
+is it going to get warmer today
+how does tonight look in <START:city> boston <END> ?
+is it going to rain this afternoon in <START:city> chicago <END>
+will it rain this morning <START:city> miami <END>
+is it going to get warmer today <START:city> houston <END>
+how does tonight look in <START:city> austin <END>
+is it going to rain this afternoon in <START:city> san francisco <END> ?
+will it rain this morning <START:city> Seattle <END>
+is it going to get warmer today <START:city> Portland <END>
